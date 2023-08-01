@@ -1,0 +1,13 @@
+[package]
+name = "catsay"
+version = "0.1.0"
+authors = ["Shing Lyu"]
+edition = "2021"
+
+[dependencies]
+structopt = "0.3.26"
+colored = "2.0.0"
+failure = "0.1.8"
+exitfailure = "0.5.1"
+assert_cmd = "2.0.4"
+predicates = "2.1.1"

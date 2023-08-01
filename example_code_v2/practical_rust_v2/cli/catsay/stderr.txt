@@ -1,0 +1,3 @@
+    Finished dev [unoptimized + debuginfo] target(s) in 0.04s
+     Running `target/debug/catsay woof`
+A cat shouldn't bark like a dog.
